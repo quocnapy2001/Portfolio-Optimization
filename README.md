@@ -1,7 +1,12 @@
 # Portfolio-Optimization
 
+### Data
+- Type: Price
+- Range: 1/1/2021 - 1/1/2026
+- Portfolio Start: 1/1/2024 - 1/1/2026
+
 ### Assets:
-<img width="470" height="286" alt="image" src="https://github.com/user-attachments/assets/7c458e75-36cc-4d4e-9929-bcbb80b632ad" />
+
 
 ### Static Scenario: 
 <img width="568" height="280" alt="image" src="https://github.com/user-attachments/assets/0388867a-0d1b-4c9a-8f69-abe419d631fd" />
