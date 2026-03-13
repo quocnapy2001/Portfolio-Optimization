@@ -8,9 +8,6 @@
 ### Assets:
 
 
-### Static Scenario: 
-<img width="568" height="280" alt="image" src="https://github.com/user-attachments/assets/0388867a-0d1b-4c9a-8f69-abe419d631fd" />
-
 ### Unconstrained Optimization (Base):
 - Rebalancing frequency: monthly
 - Lookback window for optimisation: 3 years
