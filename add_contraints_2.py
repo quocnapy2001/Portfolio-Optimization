@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 10 20:17:10 2026
-
-@author: Owner
-"""
 from opt_func_0 import *
 
 # ---------------------------------------------------------------

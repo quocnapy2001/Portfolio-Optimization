@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 10 18:32:39 2026
-
-@author: Owner
-"""
-
 # Import
 import yfinance as yf
 import pandas as pd
@@ -27,7 +20,7 @@ print(weights)
 
 # Starting and Ending date
 stockStartDate = '2021-01-01'
-today = datetime.today().strftime("%Y-%m-%d")
+today = '2026-01-01'
 
 print("Starting Date: ",stockStartDate)
 print("Ending Date: ", today)
