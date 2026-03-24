@@ -1,5 +1,8 @@
 # Portfolio-Optimization
 
+### Code Run Order:
+utils => ms_unconstrained => ms_constrained => minVol => comparison.
+
 ### Data
 - Type: Price
 - Range: 1/1/2021 - 1/1/2026
